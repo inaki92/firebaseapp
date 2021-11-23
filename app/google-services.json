@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "485972420756",
-    "project_id": "example1-b51bf",
-    "storage_bucket": "example1-b51bf.appspot.com"
+    "project_number": "66143644896",
+    "project_id": "anotherapp-41d7e",
+    "storage_bucket": "anotherapp-41d7e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:485972420756:android:018d2c847dd2bf3d8fac81",
+        "mobilesdk_app_id": "1:66143644896:android:76c96becee143c834f7485",
         "android_client_info": {
           "package_name": "com.inaki.firstkotlinapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "485972420756-orneis9eg25lii02pnpjdp2e8l11amkn.apps.googleusercontent.com",
+          "client_id": "66143644896-t3b6bg370cfcf2tnjb1is89m5egh4rva.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDT0rfdc9fPiLNy4HMMyVrUNcePrbKaKtY"
+          "current_key": "AIzaSyCYuXu1iZQyKYHWq3F9CGoM3Ey1wnyKpio"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "485972420756-orneis9eg25lii02pnpjdp2e8l11amkn.apps.googleusercontent.com",
+              "client_id": "66143644896-t3b6bg370cfcf2tnjb1is89m5egh4rva.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
