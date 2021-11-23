@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlinApp</string>
+    <string name="channel_name">CHANNEL</string>
+    <string name="channel_description">MY NEW CHANNEL</string>
+</resources>
