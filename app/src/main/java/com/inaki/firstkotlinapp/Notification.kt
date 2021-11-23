@@ -5,6 +5,8 @@ import android.app.NotificationManager
 import android.content.Context
 import androidx.core.app.NotificationCompat
 
+// This object will be a helper to wrap the two function needed for the notifications
+// notification channel, and the notification
 object Notification {
 
     fun createNotificationChannel(context: Context) = run {

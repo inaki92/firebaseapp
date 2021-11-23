@@ -33,6 +33,7 @@ android {
         jvmTarget = '1.8'
     }
 
+    // here we are enabling the viewBinding in the project
     buildFeatures {
         viewBinding true
     }
